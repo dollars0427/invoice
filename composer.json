@@ -1,5 +1,5 @@
 {
-    "name": "invoice/invoice",
+    "name": "dollars0427/invoice",
     "description": "Simple Php Class For Beautiful Invoices",
     "type": "library",
     "keywords": [
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.0.0"
+        "php": ">=8.0"
     },
     "autoload": {
         "files": [
